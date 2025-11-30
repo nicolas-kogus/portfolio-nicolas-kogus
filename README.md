@@ -38,3 +38,8 @@ Aqui eu registro tudo o que estou aprendendo para acompanhar minha evolução e 
 - Estruturas de dados (conforme avanço nos estudos)
 
 ---
+
+## Sobre mim
+**Nicolas Kogus**  
+Estudante de Java e Desenvolvimento de Sistemas  
+GitHub: https://github.com/nicolas-kogus
