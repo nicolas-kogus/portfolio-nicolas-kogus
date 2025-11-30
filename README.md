@@ -38,6 +38,3 @@ Aqui eu registro tudo o que estou aprendendo para acompanhar minha evolução e 
 - Estruturas de dados (conforme avanço nos estudos)
 
 ---
-
-## Estrutura do repositório
-
